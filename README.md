@@ -32,7 +32,7 @@ Open index.html in your browser or use Live Server in VS Code.
 ![Screenshot 2025-02-02 145359](https://github.com/user-attachments/assets/3882bc29-a211-413a-be49-62d46831ca97)
 ![Screenshot 2025-02-02 145415](https://github.com/user-attachments/assets/230bc43f-f23c-40fa-afea-ea650cc52733)
 
-Live website demo link :
+Live website demo link : https://ammarmultani03.github.io/Cynthia-Ugwu-Clone/
 
 🤝 Contributing
 Feel free to fork this project and improve it! Open a pull request with any enhancements.
